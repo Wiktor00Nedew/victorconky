@@ -13,9 +13,10 @@ The widgets in this package are:
 * archSmall
 * archMedium
 * archLarge
+* archLargeNvidia
 * linuxSmall
 * linuxMedium
-* linuxLarg
+* linuxLarge
 
 <div align="center" class="tip" markdown="1" style>
 
@@ -45,6 +46,9 @@ Copy the victorConky folder to this path
 ~/.conky 
 ```
 now you can choos your favorite conky from conky-manager software
+
+For layouts with gpu monitor you'd have to install needed dependecies:
+Nvidia: nvidia-smi, nvidia
 
 <div align="center" class="tip" markdown="1" style>
 
